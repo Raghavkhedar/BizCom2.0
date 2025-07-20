@@ -1,0 +1,9 @@
+.next/
+out/
+node_modules/
+*.config.js
+*.config.mjs
+*.config.ts
+package-lock.json
+yarn.lock
+.env*
